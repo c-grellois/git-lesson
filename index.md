@@ -1,3 +1,3 @@
 # Test Time
 
-![]{porter_valley.jpg}
+![](porter_valley.jpg)
